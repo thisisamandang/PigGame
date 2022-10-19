@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "-": "^0.0.1",
+    "live": "^0.1.25-beta.0",
+    "live-server": "^1.2.2",
+    "liveserver": "^0.1.20",
+    "server": "^1.0.37"
+  }
+}
